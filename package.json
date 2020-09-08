@@ -1,5 +1,5 @@
 {
-  "name": "personalportfolio",
+  "name": "daniel-soladoye-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +7,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-ga": "^3.1.2",
+    "react-icons": "^3.11.0",
     "react-scripts": "3.4.3"
   },
   "scripts": {
@@ -26,5 +27,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dsholz/react-portfolio-template.git"
+  },
+  "author": "soladoye daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dsholz/react-portfolio-template/issues"
+  },
+  "homepage": "https://github.com/Dsholz/react-portfolio-template#readme"
 }
