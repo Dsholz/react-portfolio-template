@@ -21,7 +21,7 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul>
-              <li>Portfolio Template by the Clever Programmer team ♥️</li>
+              <li>Portfolio Template by the Clever Programmer team </li>
             </ul>
 
             <ul className="copyright">

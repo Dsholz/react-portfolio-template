@@ -36,9 +36,5 @@
     "url": "git+https://github.com/Dsholz/react-portfolio-template.git"
   },
   "author": "soladoye daniel",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Dsholz/react-portfolio-template/issues"
-  },
-  "homepage": "https://github.com/Dsholz/react-portfolio-template#readme"
+  "license": "ISC"
 }
