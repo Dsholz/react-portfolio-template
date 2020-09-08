@@ -112,10 +112,16 @@
         "url": "https://github.com/Dsholz/Tv-Clix"
       },
       {
+        "title": "Book Tracing App",
+        "category": "Book Tracing Application for keeping track of your books built with ReactJS",
+        "image": "book-tracing-app.png",
+        "url": "https://mybooktracingapp.netlify.app/"
+      },
+      {
         "title": "Guessing Game App",
         "category": "Web app game for guessing hidden letters built with (JavaScript, Webpack, Babel, CSS, HTML)",
         "image": "guess-game.png",
-        "url": "https://github.com/Dsholz/Tv-Clix"
+        "url": "https://dsholz-guess-game.netlify.app/"
       },
       {
         "title": "Events Tracker App",
