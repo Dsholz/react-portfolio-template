@@ -106,6 +106,12 @@
         "url": "https://www.sweetlabelplugz.com/"
       },
       {
+        "title": "Blogging Web Application",
+        "category": "Blogging Web Application with full user authentication, database integration, and more.",
+        "image": "blogger.png",
+        "url": "https://dev-blog-7b606.web.app/"
+      },
+      {
         "title": "Tv Clix Mobile App",
         "category": "Android mobile application for information on movies and tv shows built with (React-Native, Expo, TMBD)",
         "image": "tv-clix.png",
