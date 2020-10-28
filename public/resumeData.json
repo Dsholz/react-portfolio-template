@@ -4,12 +4,12 @@
     "occupation": "Web & Mobile Developer",
     "description": "React Web & React-Native Mobile Developer",
     "image": "Soladoye-Daniel.jpg",
-    "bio": "My name is Daniel, I'm a Front-End React Web & Mobile Developer Developer. Currently I'm working as a freelancer. I love learning and using my skills to help buisnesses create innovative products that help generate more revenue and solve real-world problems.",
+    "bio": "I'm a Front-End React Web Developer also skilled in Unit Testing and Serverless development. Currently targeting oppourtunities as a Front-end Web Developer. Skills: JavaScript | React | React-Native | Firebase | Jest | Sass | Scss | HTML | CSS ",
     "contactmessage": "You want to get a website? Get in touch with me so we can discuss further",
     "email": "Soladoyedaniel@gmail.com",
     "phone": "+234 905 399 011",
     "address": {
-      "street": "Gowon Estate",
+      "street": "",
       "city": "Lagos",
       "state": "Nigeria",
       "zip": "100275"
@@ -47,15 +47,15 @@
     "work": [
       {
         "company": "Sweet Label Plugz",
-        "title": "Front-End Developer",
-        "years": "April 2019 - August 2020",
-        "description": "Work with a back-end developer and we both built company's e-commerce website from scratch."
+        "title": "Front-End Web Developer",
+        "years": "April 2020 - August 2020",
+        "description": "Developed website for Sticker & Label vendor based abroad. working together with a back-end developer and we both built company's e-commerce website from scratch.  Helping improve customers outreach and generate more revenue for the business"
       },
       {
-        "company": "Augustine Okolo Enterprise - Internship",
+        "company": "Augustine Okolo Enterprise ( IT )",
         "title": "Engineering assistant",
         "years": "March 2020 - April 2020",
-        "description": "Worked closely with mechanical engineers on-site, in the day-to-day operations."
+        "description": "Worked closely with mechanical engineers on-site, in the day-to-day operations. Learned about mechanical components and functions"
       }
     ],
     "skills": [
@@ -104,6 +104,12 @@
         "category": "E-commerce website for Sticker and Labels company vendor",
         "image": "sweet-label-plugz.png",
         "url": "https://www.sweetlabelplugz.com/"
+      },
+      {
+        "title": "Coronavirus Tracking Application",
+        "category": "Coronavirus Tracking Application, covid19 data from Worldmeters & John Hopkins University.",
+        "image": "covid19-tracker.png",
+        "url": "https://covid19trackersholz.netlify.app/"
       },
       {
         "title": "Blogging Web Application",
